@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Nikuu!
-I'm a Stockholm based Front End Developer. 
+I am currently studying Front End Development. 
 
 
 <div id="header" align="center">
